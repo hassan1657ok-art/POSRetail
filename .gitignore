@@ -1,0 +1,10 @@
+node_modules
+dist
+dist-electron
+release
+.env
+*.db
+*.db-journal
+prisma/migrations
+.DS_Store
+thumbs.db
