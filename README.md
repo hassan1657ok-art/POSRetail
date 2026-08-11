@@ -478,7 +478,7 @@ test: add sale computation unit tests
 
 ## License
 
-MIT © Nasif Khan
+MIT © Sardar Hassan Arshad
 
 ---
 
